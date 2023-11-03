@@ -4,7 +4,7 @@
 - npm install -g create-react-app
 - npx create-react-app my-react-app
 - cd my-react-app
--Then npm start and Remove src file in your project and paste my src-tast file.
+-Then npm start and Remove src file in your project and paste my src-task file.
 - then install firebase 'npm firebase'
 - These are the ScreeShots for for task
 # Screenshots
